@@ -10,8 +10,8 @@ Beeping noise is produced to alert the driver if he/she is found to be drowsy or
 
 - [Libraries used](#Libraries-used)
 - [Approach](#Approach)
-- [Output images](#Output-images)
-- [Model scores](#Model-scores)
+- [Output Images](#Output-Images)
+- [Model Scores](#Model-Scores)
 - [Future Scope](#Future-Scope)
 - [Credits](#Credits)
 
