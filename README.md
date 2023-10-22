@@ -8,12 +8,12 @@ Beeping noise is produced to alert the driver if he/she is found to be drowsy or
 
 # Table of Content
 
-- [Libraries used](https://github.com/gjyotk/Drowsiness-detection-2.0/edit/main/README.md#libraries-used)
-- [Approach](https://github.com/gjyotk/Drowsiness-detection-2.0/edit/main/README.md#approach)
-- [Output images](https://github.com/gjyotk/Drowsiness-detection-2.0/edit/main/README.md#approach)
-- [Model scores](https://github.com/gjyotk/Drowsiness-detection-2.0/edit/main/README.md#approach)
-- [Future Scope](https://github.com/gjyotk/Drowsiness-detection-2.0/edit/main/README.md#approach)
-- [Credits](https://github.com/gjyotk/Drowsiness-detection-2.0/edit/main/README.md#approach)
+- [Libraries used](#Librariesused)
+- [Approach](#Approach)
+- [Output images](#Outputimages)
+- [Model scores](#Modelscores)
+- [Future Scope](#FutureScope)
+- [Credits](#Credits)
 
 
 
