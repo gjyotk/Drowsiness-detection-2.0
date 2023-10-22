@@ -51,8 +51,7 @@ Beeping noise is produced to alert the driver if he/she is found to be drowsy or
 
 # SMS to emergency lines
 an SMS containing the GPS coordinates of the unresponsive driver will be sent to authorities. In case the driver is not responding to the alarm, it could be a medical emergency that can increase chances of a road accident. Sending this data to authorities can help increase the speed of emergency response, reducsing casualties after an accident.
-
-![sms](https://github.com/gjyotk/Drowsiness-detection-2.0/assets/124910256/0d4adefc-d8fe-4468-af76-3a44cf3d45f2)
+<img src="https://github.com/gjyotk/Drowsiness-detection-2.0/assets/124910256/0d4adefc-d8fe-4468-af76-3a44cf3d45f2" width=30%>
 
 
 # Future Scope
